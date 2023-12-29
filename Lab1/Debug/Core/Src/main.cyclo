@@ -1,0 +1,14 @@
+../Core/Src/main.c:80:5:main	5
+../Core/Src/main.c:131:6:SystemClock_Config	3
+../Core/Src/main.c:171:13:MX_TIM3_Init	4
+../Core/Src/main.c:216:13:MX_GPIO_Init	1
+../Core/Src/main.c:248:6:SetAllOff	1
+../Core/Src/main.c:255:6:SetRedOn	1
+../Core/Src/main.c:261:6:SetGreenOn	1
+../Core/Src/main.c:267:6:SetBlueOn	1
+../Core/Src/main.c:273:6:SetAllOn	1
+../Core/Src/main.c:280:6:SetLedEffect	6
+../Core/Src/main.c:300:6:Calculate_present_counter	4
+../Core/Src/main.c:318:6:Calculate_present_counter_1	4
+../Core/Src/main.c:336:6:HAL_TIM_PeriodElapsedCallback	6
+../Core/Src/main.c:362:6:Error_Handler	1

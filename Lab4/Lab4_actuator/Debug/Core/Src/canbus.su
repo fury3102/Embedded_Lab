@@ -1,0 +1,6 @@
+../Core/Src/canbus.c:22:6:HAL_CAN_RxFifo1MsgPendingCallback	16	static
+../Core/Src/canbus.c:37:9:CANNegativeResponse	24	static
+../Core/Src/canbus.c:60:9:ReadDataByIdentifierResponse	32	static
+../Core/Src/canbus.c:91:9:WriteDataByIdentifierResponse	32	static
+../Core/Src/canbus.c:128:9:securityAccessSeedGen	32	static
+../Core/Src/canbus.c:176:9:SecurityAccessKeyResponse	24	static

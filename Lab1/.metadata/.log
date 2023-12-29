@@ -1,0 +1,76 @@
+!SESSION 2023-10-12 07:41:52.445 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-10-12 14:56:01.197
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-10-12 14:56:01.209
+!MESSAGE Log4j2 initialized with config file X:\Courses\Embedded System Design Topic 1\Practice\lab1_\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-10-12 14:56:06.447
+!MESSAGE Started RMI Server, listening on port 41338
+!SESSION 2023-10-12 15:44:38.286 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-10-12 15:44:45.772
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-10-12 15:44:45.774
+!MESSAGE Log4j2 initialized with config file X:\Courses\Embedded System Design Topic 1\Practice\lab1_\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-10-12 15:44:49.521
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-10-12 15:54:48.420 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-10-12 15:54:56.712
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-10-12 15:54:56.713
+!MESSAGE Log4j2 initialized with config file X:\Courses\Embedded System Design Topic 1\Practice\lab1_\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-10-12 15:55:00.187
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-10-12 15:58:27.179 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-10-12 15:59:08.285
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-10-12 15:59:08.287
+!MESSAGE Log4j2 initialized with config file X:\Courses\Embedded System Design Topic 1\Practice\lab1_\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-10-12 15:59:11.080
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2023-10-12 15:59:39.527 -----------------------------------------------
+eclipse.buildId=Version 1.13.2
+java.version=17.0.6
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  X:\Courses\Embedded System Design Topic 1\Practice\lab1_\.cproject
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 X:\Courses\Embedded System Design Topic 1\Practice\lab1_\.cproject
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2023-10-12 15:59:45.388
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2023-10-12 15:59:45.390
+!MESSAGE Log4j2 initialized with config file X:\Courses\Embedded System Design Topic 1\Practice\lab1_\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2023-10-12 15:59:48.255
+!MESSAGE Started RMI Server, listening on port 41337
